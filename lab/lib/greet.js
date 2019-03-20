@@ -9,5 +9,5 @@ greet = (name) => {
   }
   return(`Hello, ${input}`);
 };
-
+console.log('Pants');
 module.exports = (greet);
